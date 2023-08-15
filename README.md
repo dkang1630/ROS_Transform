@@ -10,7 +10,7 @@ During my time at UT Austin, I participated in projects regarding ROS and how to
 - <b>C++</b>
 - <b>OpenCV</b>
 - <b>ROS</b>
-- <b>Rviz</b>
+- <b>RViz</b>
 
 <h2>Environments Used </h2>
 
